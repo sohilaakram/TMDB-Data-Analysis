@@ -4,7 +4,7 @@ __In this report we are going to analyze tmdb dataset to answer interesting ques
 I love watching movies and i am curious to find out more about movies industry.
 This dataset has 10866 rows and 21 columns. Fortunately, it seems that there is a lot to explore.__
 
-__I am intersted in finding an answer to these questions :
+__I am intersted in finding an answer to these questions :__
 
 * Is popularity associated with number of ratings?
 * What are the top ten Movie genres that have the highest Revenue?
